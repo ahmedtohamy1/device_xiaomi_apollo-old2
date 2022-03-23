@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2021 The ArrowOS Project
+# Copyright (C) 2021 The evolutionOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_apollo.mk
+    $(LOCAL_DIR)/evolution_apollo.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_apollo-user \
-    arrow_apollo-userdebug \
-    arrow_apollo-eng
+    evolution_apollo-user \
+    evolution_apollo-userdebug \
+    evolution_apollo-eng
