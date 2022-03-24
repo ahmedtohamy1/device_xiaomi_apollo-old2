@@ -18,7 +18,7 @@
 <resources>
 
     <!-- The padding of the statusbar -->
-    <dimen name="status_bar_padding_top">8dp</dimen>
+    <dimen name="status_bar_padding_top">5dp</dimen>
     <dimen name="rounded_corner_content_padding">40px</dimen>
 
     <!-- The padding of a notification icon on top to the start of the notification. Used for custom
